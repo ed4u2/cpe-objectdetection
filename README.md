@@ -1,10 +1,17 @@
-# cpe-objectdetection
+# Cpe-Objectdetection
 
-#Watch
-[Test video1]https://youtu.be/eEWVy85wxk4
+Detect whether there are contraband products through the object
+
+# Watch
+
+[Test Video1] https://youtu.be/eEWVy85wxk4
+
+[Test Video2] https://youtu.be/b-Xa8UybyVA
+
+
+# Install
 
 npm install
 
-#open 
+Open   localhosts://3000
 
-localhosts://3000
